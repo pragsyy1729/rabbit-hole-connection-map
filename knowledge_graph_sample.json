@@ -1,0 +1,254 @@
+[
+  {
+    "id": "15a7df7c-5e13-4b83-84b6-e1771a4ef4da",
+    "created_at": "2026-05-04T16:29:07.641626+00:00",
+    "concept_a": "Cat",
+    "concept_b": "Neurodivergence",
+    "steps": [
+      {
+        "step": 1,
+        "concept": "Cat",
+        "wikipedia_extract": "The cat, also called domestic cat and house cat, is a small carnivorous mammal. It is an obligate carnivore, requiring a predominantly meat-based diet. Its retractable claws are adapted to killing small prey species such as mice and rats. It has a strong, flexible body, quick reflexes, and sharp tee",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cat",
+        "connection_to_next": "Cats are often domesticated animals that live with humans."
+      },
+      {
+        "step": 2,
+        "concept": "Human",
+        "wikipedia_extract": "Humans are the most abundant and widespread species of primates, characterized by bipedality, hairlessness and large, complex brains enabling the development of advanced technology, culture and language. Humans are highly social beings and tend to live in complex social structures composed of many c",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Human",
+        "connection_to_next": "Humans have a complex nervous system that enables them to perceive and interact with their environment."
+      },
+      {
+        "step": 3,
+        "concept": "Nervous system",
+        "wikipedia_extract": "In biology, the nervous system is the highly complex part of an animal that coordinates its actions and sensory information by transmitting signals to and from different parts of its body. The nervous system detects environmental changes that impact the body, then works in tandem with the endocrine ",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Nervous_system",
+        "connection_to_next": "The nervous system can exhibit a range of differences in function and structure, which are now being recognized as part of the neurodiversity paradigm."
+      },
+      {
+        "step": 4,
+        "concept": "Neurodivergence",
+        "wikipedia_extract": "The neurodiversity paradigm is a framework for understanding human brain function that considers the diversity within sensory processing, motor abilities, social comfort, cognition, and focus as neurobiological differences. This diversity falls on a spectrum of neurocognitive differences. The neurod",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Neurodiversity",
+        "connection_to_next": null
+      }
+    ]
+  },
+  {
+    "id": "7a97649e-0c71-4577-b5a4-e200fbf8f937",
+    "created_at": "2026-05-04T16:31:04.377763+00:00",
+    "concept_a": "Vinegar",
+    "concept_b": "Einstein's theory of relativity",
+    "steps": [
+      {
+        "step": 1,
+        "concept": "Vinegar",
+        "wikipedia_extract": "Vinegar is an odorous aqueous solution of diluted acetic acid and trace compounds that may include flavorings or naturally occurring organic compounds. Vinegar typically contains from 4% to 18% acetic acid by volume.",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vinegar",
+        "connection_to_next": "contains acetic acid"
+      },
+      {
+        "step": 2,
+        "concept": "Acetic acid",
+        "wikipedia_extract": "Acetic acid, systematically named ethanoic acid, is an acidic, colourless liquid and organic compound with the chemical formula CH3COOH. Acetic acid is the active component of vinegar. Historically, vinegar was produced from the third millennium BCE, making acetic acid likely the first acid to be pr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Acetic_acid",
+        "connection_to_next": "is a compound studied in chemistry"
+      },
+      {
+        "step": 3,
+        "concept": "Chemistry",
+        "wikipedia_extract": "Chemistry is the scientific study of the properties and behavior of matter. It is a physical science within the natural sciences that studies matter: composition, structure, properties, behavior and the changes they undergo during reactions with other substances. Chemistry also addresses the nature ",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chemistry",
+        "connection_to_next": "is a field of study that applies principles of physics"
+      },
+      {
+        "step": 4,
+        "concept": "Einstein's theory of relativity",
+        "wikipedia_extract": "The theory of relativity comprises two physics theories by Albert Einstein: special relativity and general relativity, proposed and published in 1905 and 1915, respectively. Special relativity applies to all physical phenomena in the absence of gravity. General relativity explains the law of gravita",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Theory_of_relativity",
+        "connection_to_next": null
+      }
+    ]
+  },
+  {
+    "id": "a0aba717-dfba-40c7-9192-3a33da88af54",
+    "created_at": "2026-05-04T17:10:31.258689+00:00",
+    "concept_a": "Corona Virus",
+    "concept_b": "Jesus",
+    "steps": [
+      {
+        "step": 1,
+        "concept": "Corona Virus",
+        "wikipedia_extract": "Coronaviruses are a group of related RNA viruses that cause diseases in mammals and birds. In humans and birds, they cause respiratory tract infections that can range from mild to lethal. Mild illnesses in humans include some cases of the common cold, while more lethal varieties can cause SARS, MERS",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Coronavirus",
+        "connection_to_next": "causes respiratory tract infections in humans"
+      },
+      {
+        "step": 2,
+        "concept": "Respiratory Tract Infections",
+        "wikipedia_extract": "Respiratory tract infections (RTIs) are infectious diseases involving the lower or upper respiratory tract. An infection of this type usually is further classified as an upper respiratory tract infection or a lower respiratory tract infection. Lower respiratory infections, such as pneumonia, tend to",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Respiratory_tract_infection",
+        "connection_to_next": "can be treated in hospitals, which were often founded by"
+      },
+      {
+        "step": 3,
+        "concept": "Christian Monasticism",
+        "wikipedia_extract": "Christian monasticism is a religious way of life of Christians who live ascetic and typically cloistered lives that are dedicated to Christian worship. It began to develop early in the history of the Christian Church, modeled upon scriptural examples and ideals, including those in the Old Testament.",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_monasticism",
+        "connection_to_next": "played a key role in the development of early Christianity, which centers around"
+      },
+      {
+        "step": 4,
+        "concept": "Jesus",
+        "wikipedia_extract": "Jesus, also referred to as Jesus Christ, Jesus of Nazareth, and by various other names and titles, was a 1st-century Jewish preacher and religious leader in the Roman province of Judaea. He is the central figure of Christianity, the world's largest religion. Most Christians consider Jesus to be the ",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jesus",
+        "connection_to_next": null
+      }
+    ]
+  },
+  {
+    "id": "d7b09583-e8e6-4a84-a33c-56145d62563f",
+    "created_at": "2026-05-04T17:11:54.644087+00:00",
+    "concept_a": "Jesus",
+    "concept_b": "Korea",
+    "steps": [
+      {
+        "step": 1,
+        "concept": "Jesus",
+        "wikipedia_extract": "Jesus, also referred to as Jesus Christ, Jesus of Nazareth, and by various other names and titles, was a 1st-century Jewish preacher and religious leader in the Roman province of Judaea. He is the central figure of Christianity, the world's largest religion. Most Christians consider Jesus to be the ",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jesus",
+        "connection_to_next": "Roman province of Judaea was part of the Roman Empire."
+      },
+      {
+        "step": 2,
+        "concept": "Roman Empire",
+        "wikipedia_extract": "The Roman Empire was a state that controlled the Mediterranean and much of Europe, Western Asia, and North Africa during the classical period. The Roman Republic had previously conquered most of these territories, which became ruled by emperors following triumvir Octavian's rise to power and establi",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_Empire",
+        "connection_to_next": "The Roman Empire had trade and cultural exchange with China, including the Silk Road."
+      },
+      {
+        "step": 3,
+        "concept": "Silk Road",
+        "wikipedia_extract": "The Silk Road was a network of Asian trade routes active from the second century\u00a0BCE until the mid-15th century. Spanning over 6,400\u00a0km (4,000\u00a0mi) on land, it played a central role in facilitating economic, cultural, political, and religious interactions between the Eastern and Western worlds. The n",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Silk_Road",
+        "connection_to_next": "The Silk Road passed through various countries, including China and its neighboring regions."
+      },
+      {
+        "step": 4,
+        "concept": "Korea",
+        "wikipedia_extract": "Korea is a peninsular region in East Asia consisting of the Korean Peninsula, Jeju Island, and smaller islands. Since the end of World War II in Asia in 1945, it has been politically divided at or near the 38th parallel between North Korea and South Korea. Both countries proclaimed independence in 1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Korea",
+        "connection_to_next": null
+      }
+    ]
+  },
+  {
+    "id": "12221df4-041b-467a-bb9f-7d37ea05c447",
+    "created_at": "2026-05-04T17:14:50.826770+00:00",
+    "concept_a": "Jesus",
+    "concept_b": "Krishna",
+    "steps": [
+      {
+        "step": 1,
+        "concept": "Jesus",
+        "wikipedia_extract": "Jesus, also referred to as Jesus Christ, Jesus of Nazareth, and by various other names and titles, was a 1st-century Jewish preacher and religious leader in the Roman province of Judaea. He is the central figure of Christianity, the world's largest religion. Most Christians consider Jesus to be the ",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jesus",
+        "connection_to_next": "Both Jesus and Vishnu have been considered as divine incarnations or avatars in their respective faiths."
+      },
+      {
+        "step": 2,
+        "concept": "Vishnu",
+        "wikipedia_extract": "Vishnu, also known as Narayana and Hari, is one of the principal deities of Hinduism. He is the Supreme Being within Vaishnavism, one of the major traditions within contemporary Hinduism, and the god of preservation (sattva). Though not prominently represented in the Vedas Vishnu was possibly alread",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vishnu",
+        "connection_to_next": "Krishna is considered as the eighth avatar of Vishnu in Hindu mythology."
+      },
+      {
+        "step": 3,
+        "concept": "Avatar",
+        "wikipedia_extract": "Avatar is a concept within Hinduism that in Sanskrit literally means 'descent'. The concept, with a different name, can also be found within Buddhism and Yazidism. It signifies the material appearance or incarnation of a powerful deity, or spirit on Earth, including in human form. The relative verb ",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Avatar",
+        "connection_to_next": "Krishna is an example of an avatar in Hinduism, being considered the eighth avatar of Vishnu."
+      },
+      {
+        "step": 4,
+        "concept": "Krishna",
+        "wikipedia_extract": "Krishna is a major deity in Hinduism. He is worshipped as the eighth avatar of Vishnu and also as the Supreme God in his own right. He is the god of protection, compassion, tenderness, and love; and is widely revered among Hindu divinities. Krishna's birthday is celebrated every year by Hindus on Kr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Krishna",
+        "connection_to_next": null
+      }
+    ]
+  },
+  {
+    "id": "7ee5bf1b-d9cb-4ee7-b6eb-4aae004dcedb",
+    "created_at": "2026-05-04T17:22:35.147337+00:00",
+    "concept_a": "Artificial Intelligence",
+    "concept_b": "Chocolate",
+    "steps": [
+      {
+        "step": 1,
+        "concept": "Artificial Intelligence",
+        "wikipedia_extract": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in engineering, mathematics and computer science that develo",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+        "connection_to_next": "Machine learning, a subset of AI, is used in various industries, including manufacturing and quality control."
+      },
+      {
+        "step": 2,
+        "concept": "Manufacturing",
+        "wikipedia_extract": "Manufacturing is the creation or production of goods with the help of equipment, labor, machines, tools, and chemical or biological processing or formulation. It is the essence of the secondary sector of the economy. The term may refer to a range of human activity, from handicraft to high-tech, but ",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Manufacturing",
+        "connection_to_next": "Manufacturing processes are used in the production of various goods, including food products such as chocolate."
+      },
+      {
+        "step": 3,
+        "concept": "Food processing",
+        "wikipedia_extract": "Food processing is the transformation of agricultural products into food, or of one form of food into other forms. Food processing takes many forms, from grinding grain into raw flour to home cooking and complex industrial methods used in the making of convenience foods. Some food processing methods",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Food_processing",
+        "connection_to_next": "Food processing techniques, such as roasting and grinding, are used in the production of chocolate."
+      },
+      {
+        "step": 4,
+        "concept": "Chocolate",
+        "wikipedia_extract": "Chocolate is a food made from roasted and ground cocoa beans. It can be a liquid, solid, or paste. It is eaten on its own and used to flavor other foods.",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chocolate",
+        "connection_to_next": null
+      }
+    ]
+  },
+  {
+    "id": "bcaa7492-3a4f-45d0-a5b6-8b4b7c9f6fd7",
+    "created_at": "2026-05-04T17:25:31.572221+00:00",
+    "concept_a": "Artificial Intelligence",
+    "concept_b": "Chocolate",
+    "steps": [
+      {
+        "step": 1,
+        "concept": "Artificial Intelligence",
+        "wikipedia_extract": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in engineering, mathematics and computer science that develo",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+        "connection_to_next": "AI is used in various industries, including manufacturing, which is related to food processing."
+      },
+      {
+        "step": 2,
+        "concept": "Food Processing",
+        "wikipedia_extract": "Food processing is the transformation of agricultural products into food, or of one form of food into other forms. Food processing takes many forms, from grinding grain into raw flour to home cooking and complex industrial methods used in the making of convenience foods. Some food processing methods",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Food_processing",
+        "connection_to_next": "Food processing involves the transformation of raw ingredients, such as cocoa beans, into edible products."
+      },
+      {
+        "step": 3,
+        "concept": "Cocoa Beans",
+        "wikipedia_extract": "The cocoa bean, also known as cocoa or cacao, is the dried and fully fermented seed of Theobroma cacao, the cacao tree, from which cocoa solids and cocoa butter can be extracted. Cacao trees are native to the Amazon rainforest. They are the basis of chocolate and Mesoamerican foods including tejate,",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cocoa_bean",
+        "connection_to_next": "Cocoa beans are the main ingredient in the production of chocolate."
+      },
+      {
+        "step": 4,
+        "concept": "Chocolate",
+        "wikipedia_extract": "Chocolate is a food made from roasted and ground cocoa beans. It can be a liquid, solid, or paste. It is eaten on its own and used to flavor other foods.",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chocolate",
+        "connection_to_next": null
+      }
+    ]
+  }
+]
