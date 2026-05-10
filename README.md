@@ -2,6 +2,8 @@
 
 A visual, interactive tool to map semantic connections between two distinct concepts. By leveraging the Wikipedia API and large language models (LLaMA 3.1 70B via NVIDIA NIM), the Rabbit Hole Knowledge Mapper generates a logical, step-by-step path that connects "Concept A" to "Concept B."
 
+Illustration of the demo - [Rabbit Hole Connection Map](https://www.youtube.com/watch?v=RkLWcFhlYek)
+
 ## Features
 
 - **Semantic Path Generation:** Connect any two concepts through a logical N-step path.
